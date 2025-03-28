@@ -67,6 +67,10 @@ This project Provides insights into e-commerce data by Syncing and consolidating
   php artisan storage:link
   ```
 
+- Configure email provider in .env
+
+- Add the emails of those that should be notified of completed exports in `config/notifications`
+
 ## Usage
 
 - To run local server
